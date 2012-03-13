@@ -68,8 +68,9 @@ body{
 	position:relative;
 	width:1000px;
 	min-height:660px;
-	background:url("../images/templateLight/background-main.jpg") top center no-repeat;
+	background:url("../images/templateLight/background-main.jpg") top center;
 	margin:0 auto;
+	padding-bottom:20px;
 	}
 
 #background-footer{
@@ -218,6 +219,7 @@ hr{
 	width:300px;
 	line-height:24px;
 	height:24px;
+	font-size:1.1em;
 	}
 
 /*   ===================================================================================================                                                                
