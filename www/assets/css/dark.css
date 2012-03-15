@@ -145,6 +145,7 @@ a#v65-toggleModalCart { display: block; padding: 0 0 0 24px; font-size:1.1em; }
 #v65-productDescription { width:580px; }
 #v65-modalCartBody{ font-size:1.1em; }
 #v65-modalCartBody a{ color:#000;}
+#v65-subscribeWidget input{width:170px;}
 
 /*---------------------------------------------------------------------------*/
 /*------- Buttons - This calls the button sprites from the local site -------*/
